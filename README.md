@@ -1,3 +1,3 @@
 # cli
 
-A description of this package.
+MIT License.
